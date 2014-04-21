@@ -1,0 +1,386 @@
+Texto web BBDATA: Hackathon BDW
+
+Puesto que uno de los temas centrales de Big Data Week 2014 es el de las ‘smart cities’, el hackaton girará en torno a este tema. Se pondrán a la disposición de los participantes datasets relacionados con el tema, centrados en la ciudad de Barcelona. A partir de estos datasets habrá diferentes propuestas para desarrollar aplicaciones la tarde del viernes, todo el sábado y domingo por la mañana.
+
+Según Kevin Desouza una ‘Smart City’ es aquella que cumple cuatro criterios:
+1. Sostenible (gestiona bien su energía y residuos)
+2. Diseñada de forma abierta (gobierno participativo)
+3. Habitable (no hay grandes desigualdades y tiene acceso universal a los recursos)
+4. Resistente (‘resilient’) (se adapta a los cambios y catástrofes potenciales)
+
+Aterrizaremos esta definición analizando diferentes áreas como economía, ciudadanos, gobernanza, movilidad, medio ambiente y calidad de vida.
+
+En los días previos se darán sesiones introductorias a diferentes herramientas para el trabajo con datos, tanto para la preparación como para el procesamiento y la presentación. Durante estos talleres, se harán ejercicios prácticos con OpenRefine (acondicionamiento de datos), Google Spreadsheets (gráficos y tablas dinámicas), y CartoDB (mapas); al tiempo que se enseña al asistente a acceder a los datos abiertos disponibles (opendata.bcn, Dades Obertes de la Generalitat, cartoBCN, etc..) y sus diferentes formatos.
+
+Estos talleres previos al Hackaton Big Data Week tienen un doble objetivo:
+Familiarizarse con las herramientas más habituales en el tratamiento de los datos, sin necesidad de conocimientos de programación.
+Introducir al asistente a algunos de los datasets más relevantes para las líneas temáticas del Hackaton.
+
+En el taller del primer día (6 de Mayo), se explicará:
+Las fuentes de datos abiertas con las que contamos y los servicios para acceder a ellas que disponemos (opendata.bcn, Dades Obertes de la Generalitat, cartoBCN, etc..)
+Formatos, limpieza y acondicionamiento de datos con OpenRefine
+
+En el taller del segundo día (7 de Mayo), se explicará:
+Tablas dinámicas para transformación de datos, y visualización de datos con Google Spreadsheets, con ejemplos prácticos
+Mapas con CartoDB, con un ejemplo práctico
+
+Es importante destacar que los talleres están orientados 100% a la práctica y será necesario que cada asistente traiga su propio portátil.
+
+Los talleres también incluyen el material didáctico en PDF, y unas ‘cheat sheets’ de referencia rápida de cada bloque didáctico, de cara a facilitar el trabajo posterior con las herramientas en el Hackaton.
+
+Los talleres se imparten en castellano.
+
+
+Talleres previos/preparatorios BDW
+
+Los talleres previos al Hackaton Big Data Week tienen un doble objetivo:
+Familiarizarse con las herramientas más habituales en el tratamiento de los datos, sin necesidad de conocimientos de programación
+Introducir al asistente a algunos de los datasets más relevantes para las líneas temáticas del Hackaton
+
+Los talleres tendrán lugar el martes 6 de mayo y miércoles 7, de 16 a 20h en el espacio BETA de la exposición Big Bang Data.
+
+En el taller del primer día (6 de Mayo), se explicará:
+Las fuentes de datos abiertas con las que contamos y los servicios para acceder a ellas que disponemos (opendata.bcn, Dades Obertes de la Generalitat, cartoBCN, etc..)
+Formatos, limpieza y acondicionamiento de datos con OpenRefine
+
+En el taller del segundo día (7 de Mayo), se explicará:
+Tablas dinámicas para transformación de datos, y visualización de datos con Google Spreadsheets, con ejemplos prácticos
+Mapas con CartoDB, con un ejemplo práctico
+
+Es importante destacar que los talleres están orientados 100% a la práctica y será necesario que cada asistente traiga su propio portátil.
+
+Los talleres también incluyen el material didáctico en PDF, y unas ‘cheat sheets’ de referencia rápida de cada bloque didáctico, de cara a facilitar el trabajo posterior con las herramientas en el Hackaton
+
+=============================
+Frase para la web:
+
+Durante los talleres, se harán ejercicios prácticos con OpenRefine (acondicionamiento de datos), Google Spreadsheets (gráficos y tablas dinámicas), y CartoDB (mapas); al tiempo que se enseña al asistente a acceder a los datos abiertos disponibles (opendata.bcn, Dades Obertes de la Generalitat, cartoBCN, etc..) y sus diferentes formatos.
+Hackathon BDW
+
+Puesto que uno de los temas centrales de Big Data Week 2014 es el de las 'smart cities', el hackaton girarán en torno a este tema. Se pondrán a la disposición de los participantes datasets relacionados con el tema, centrados en la ciudad de Barcelona.
+
+Escogiendo una de las definiciones más globales de 'Smart City', la de Kevin Desouza(http://kevindesouza.net/2012/07/what-is-a-smart-city/); una 'Smart City' es aquella que cumple cuatro criterios:
+Sostenible (gestiona bien su energía y residuos)
+Diseñada de forma abierta (gobierno participativo)
+Habitable (no hay grandes desigualdades y tiene acceso universal a los recursos)
+Resistente ('resilient') (se adapta a los cambios y catástrofes potenciales)
+
+Aterrizando más la definición, Boyd Cohen nos propone la 'Smart City Wheel' (http://www.fastcoexist.com/1680538/what-exactly-is-a-smart-city), el ranking actual de las top 10 smart cities en Europa (http://www.fastcoexist.com/3024721/the-10-smartest-cities-in-europe) y su metodología (http://www.fastcoexist.com/3021661/the-smartest-cities-methodology); así como un artículo sobre Barcelona y su modelo de Smart City (http://www.fastcoexist.com/1679017/barcelona-a-smart-city-model-for-the-planet)
+
+Los datasets disponibles incluirán:
+Datos sociodemográficos de los habitantes de la ciudad
+Shapefiles a diferente grano (barrio, distrito, sección censal) para dibujar mapas
+Datos sobre transporte, tráfico y gestión de energía
+
+
+
+Smart Cities + Quantified Barcelona
+
+Smart city wheel:
+
+http://www.fastcoexist.com/1680538/what-exactly-is-a-smart-city
+http://e.fastcompany.net/multisite_files/coexist/imagecache/inline-large/wheel.jpg
+
+Indicadores de la smart city wheel divididos por áreas:
+
+http://www.smart-cities.eu/download/results_indicators.pdf
+Hay explicación parcial de los pesos, en http://www.smart-cities.eu/model.html, http://www.smart-cities.eu/model_5.html
+
+El report final de smart-cities.eu está en
+
+http://www.smart-cities.eu/download/smart_cities_final_report.pdf
+
+La lista de datasets públicos que han usado:
+
+http://alainbertaud.com/wp-content/uploads/2013/06/diagram-barcelona.gif
+
+Portal de estadística BCN: http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0101010.htm
+
+(se pueden seleccionar en un desplegable los datasets, hay muchos apartados)
+
+Aquí se accede a cada anuario, hay que juntar datos:
+
+http://www.bcn.cat/estadistica/catala/dades/anuaris/index.htm
+
+
+Portal de datos abiertos BCN:
+
+http://opendata.bcn.cat/opendata/en
+
+Carto BCN
+
+http://w20.bcn.cat/cartobcn/default.aspx?lang=en
+
+Reparto de match de datasets/áreas del enlace anterior (28 de Marzo, 16:30)
+
+
+Smart Economy (Gerald)
+Smart People (Gerald)
+Smart Governance (Gerald)
+
+Smart Mobility
+
+DATASET I: Transporte
+
+% de movimientos en vehículo privado, público, bici y andando en eurostat, Barcelona,
+http://epp.eurostat.ec.europa.eu/portal/page/portal/region_cities/city_urban/data_cities/database_sub1 por años, 2004 y 2008 (***)
+
+Barcelona: Parque de !=s tipos de vehículos, por año y distrito (***)
+http://opendata.bcn.cat/opendata/en/catalog/TRANSPORT/tipologia-tipo/
+
+Trasnsport facilities (RDF, lat lng: cycling lanes, roads) (*** si se consiguen los km de carril bici)
+
+http://opendata.bcn.cat/opendata/en/catalog/TRANSPORT/equipamenttransportsiserveisrelacionats/
+
+Public transportation location (CSV, lat, lng: metro, funicular, tram, FGC)
+
+http://opendata.bcn.cat/opendata/en/catalog/TRANSPORT/transports/
+
+kms de carril bici y datos de bicing y aparcamientos. Por años
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap15/C1505030.htm
+
+modalidad de transporte para ir al trabajo (2001)
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap15/C1510010.htm
+
+idem, por distritos
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap15/C1510030.htm
+DATASET II: CONGESTED BARCELONA
+
+Estado del tráfico en tiempo real (***, ‘congested barcelona’)
+
+http://opendata.bcn.cat/opendata/en/catalog/TRANSPORT/trams/
+http://www.bcn.cat/transit/dades/dadestrams.dat
+
+[se puede coger todo el mes de abril y hacer buscable por fecha y bounding box o id de tramo]
+
+DATASET III: Acceso a TIC
+
+TIC por distrito y tipo de utilización
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap19/C190104.htm
+
+
+Wi-fi hotspots [CSV]
+
+http://opendata.bcn.cat/opendata/en/catalog/CIENCIA_I_TECNOLOGIA/puntswifi/
+
+
+
+
+Smart Environment
+
+[Número de horas de sol, temperatura, lluvia y ozono, Barcelona, por años
+http://epp.eurostat.ec.europa.eu/portal/page/portal/region_cities/city_urban/data_cities/database_sub1] Quitar
+
+
+
+DATASET 0: Contaminación
+
+Niveles medios de contaminación: PM10, CO, NO2, OZONO, por distritos (algunos no existen)
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0103050.htm
+
+DATASET I: Residuos y energía
+
+Listado de Environment facilities (RDF, lat long, puntos verdes, etc)
+
+http://opendata.bcn.cat/opendata/en/catalog/MEDI_AMBIENT/equipamentmediambientiserveisrelacionats/
+
+Energía y cambio climático. Barcelona, por años (consumos de energía, emisión de CO2 por habitante, % energía renovable, etc..)
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0103100.htm
+
+Agenda 21 (sostenibilidad) [consumo de agua, kg de residuos, kg recogida selectiva,playas, renovación urbana, zona verde por habitante]
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0103090.htm
+
+Papeleras, Contenedores y recogida en kilos de residuo, por distrito y año
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap18/index.htm
+
+DATASET II: Zonas verdes, juntar en uno solo
+
+Parques por distrito:
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0101090.htm
+
+m2 zona verde por distrito:
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0101120.htm
+
+Arbolado por distrito:
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0101100.htm
+
+
+
+
+Smart Living
+
+
+DATASET 0: Cultura, Ocio y Turismo
+
+Turismo anual: http://www.bcn.cat/estadistica/catala/dades/anuari/cap13/C1302010.htm
+Perfiles de turismo y evolución: http://www.bcn.cat/estadistica/catala/dades/anuari/cap13/C1302030.htm
+
+Cultural & leisures facilities (ojo, RDF con lat long)
+http://opendata.bcn.cat/opendata/en/catalog/CULTURA_I_OCI/equipamentculturailleure/
+
+Acommodation facilities (tourism, RDF con lat long, spatial join c/distritos?)
+
+http://opendata.bcn.cat/opendata/en/catalog/TURISME/equipamentallotjament/
+
+Information & disability facilities (RDF, lat lng)
+
+http://opendata.bcn.cat/opendata/en/catalog/TURISME/equipamentcentresdinformacio/
+
+Sport facilities (RDF, lat lng)
+
+http://opendata.bcn.cat/opendata/en/catalog/ESPORT/equipamentesports/
+
+Market+Food+Malls (RDF, lat lng)
+
+http://opendata.bcn.cat/opendata/en/catalog/COMER%C3%87/equipamentmercatsicentrescomercials/
+
+Datos de foursquare: hotspots en la ciudad
+
+[propio, buscable por nombre, fecha]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DATASET I: Vivienda (juntar en uno solo)
+
+Vivienda: Precio del alquiler por barrio y año
+
+http://opendata.bcn.cat/opendata/en/catalog/HABITATGE/h2mallo-a/
+
+Vivienda: Número de pisos por extensión en m2, por barrio y año
+
+http://opendata.bcn.cat/opendata/en/catalog/HABITATGE/habitatges-sup/
+
+Vivienda: Antiguedad de edificios por barrio
+
+http://opendata.bcn.cat/opendata/en/catalog/HABITATGE/habitatges-ant/
+
+Vivienda: Evolución del precio en euros, por año y barrio
+
+http://opendata.bcn.cat/opendata/en/catalog/HABITATGE/h2mave-totalt4b/
+
+Ídem por distrito y €/m2
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap16/C1606010.htm
+
+Ocupación por vivienda, por barrio (CSV)
+
+http://opendata.bcn.cat/opendata/en/catalog/DEMOGRAFIA/tllars-cll02/
+
+
+DATASET III: COHESIÓN SOCIAL
+
+Inmigración por distrito y procedencia
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap02/C020422.htm
+
+Evolución de paro por años
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap10/C1005010.htm
+
+(distritos)
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap10/C1005070.htm
+
+- niveles de renta (http://opendata.bcn.cat/opendata/en/catalog/SOCIETAT_I_BENESTAR/rendafam-a/)
+
+Otros (http://opendata.bcn.cat/opendata/en/catalog/POBLACIO#)
+- Nacionalidad por barrios
+- Densidad de población
+
+Pirámide de población por barrio [CSV]
+
+http://opendata.bcn.cat/opendata/en/catalog/DEMOGRAFIA/ine-ine08/
+
+Tasa de mortalidad por barrio [CSV]
+
+http://opendata.bcn.cat/opendata/en/catalog/DEMOGRAFIA/defuncions-taxes/
+
+Lista de centros sociales RDF)
+
+http://opendata.bcn.cat/opendata/en/catalog/SOCIETAT_I_BENESTAR/equipamentserveissocials/
+
+Inmigración: Tasa por barrio y año (CSV)
+
+http://opendata.bcn.cat/opendata/en/catalog/DEMOGRAFIA/immigracio-taxes/
+
+% excusión social por pobreza, por años, región de cataluña
+http://epp.eurostat.ec.europa.eu/portal/page/portal/region_cities/regional_statistics/data/database
+
+
+DATASET IV: SALUD
+
+Camas en hospitales
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap03/C0306010.htm
+
+Salud: lista de centros sanitarios (RDF)
+
+http://opendata.bcn.cat/opendata/en/catalog/SOCIETAT_I_BENESTAR/equipamentsanitat/ (RDF)
+
+DATASET V: EDUCACIÓN
+
+Educación: Nivel de estudios por distrito y año
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap05/C0501040.htm
+
+Niveles de educación por sexo y barrio
+
+http://opendata.bcn.cat/opendata/en/catalog/DEMOGRAFIA/tpob-cp29/
+
+Educación: centros (RDF, lat,lng)
+
+http://opendata.bcn.cat/opendata/en/catalog/EDUCACIO/equipamenteducacio/
+
+DATASET VI: SEGURIDAD
+
+Seguridad: Percepción de seguridad por distrito
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap08/C0804080.htm
+
+Seguridad: Índice de victimización por distrito
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap08/C0804010.htm
+
+Seguridad: Tipos de denuncia por distrito
+
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap08/C0802050.htm
+
+
+Preparación datasets (17 de Abril)
+
+Web con índice de datasets (23 de Abril)
+
+Preparar workshops (23-30 Abril)
+
+
+
+
+
