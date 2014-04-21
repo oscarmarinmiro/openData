@@ -1,0 +1,14 @@
+Nivel de educación por sexo, barrio y año (2009,2010,2011)
+==========================================================
+
+Sexo masculino
+
+http://opendata.bcn.cat/opendata/en/catalog/DEMOGRAFIA/tpob-cp28/
+
+Sexo femenino
+
+http://opendata.bcn.cat/opendata/en/catalog/DEMOGRAFIA/tpob-cp29/
+
+
+
+
