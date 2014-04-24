@@ -8,9 +8,9 @@ import re
 import json
 
 
-FILE_IN = "../assets/educacio.rdf"
+FILE_IN = "../assets/transports.rdf"
 
-FILE_OUT = "../data/educacio.json"
+FILE_OUT = "../data/transports.json"
 
 
 def makeGeoJSON(myList):
@@ -126,6 +126,11 @@ for line in fileIn:
                 if cat in catData:
                     if catData[cat] not in myData['cats']:
                         myData['cats'].append(catData[cat])
+
+            match = re.search(r'<dct:created>(.*?)</dct:created>',line)
+
+            if match:
+                myData['created'] = match.group(1) + "Z"
 
 
 
