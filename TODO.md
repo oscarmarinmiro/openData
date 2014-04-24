@@ -23,6 +23,8 @@ Preparación datasets (25 de Abril)
  http://opendata.bcn.cat/opendata/en/catalog/COMER%C3%87/equipamentmercatsicentrescomercials/
  Listado de Environment facilities
  http://opendata.bcn.cat/opendata/en/catalog/MEDI_AMBIENT/equipamentmediambientiserveisrelacionats/
+ Trasnsport facilities
+ http://opendata.bcn.cat/opendata/en/catalog/TRANSPORT/equipamenttransportsiserveisrelacionats
 
 [ ] Preparar Github (23 de Abril)
 
@@ -54,3 +56,15 @@ Tabla dinámica
 
 
 Contribuciones al repo
+
+PRESENTACION OPEN DATA
+======================
+
+Formato geografico UTM vs LATLONG
+GITHUB: Presentación en línea de los datos, issues, contribuciones, forks, aplicaciones, interoperabilidad, el límite de almacenamiento
+La importancia de la comprension de la máquina
+EJEMPLOS GITHUB
+Una tabla bien formateada
+RDF vs XML vs JSON vs CSV
+OpenDataBCN
+CartoBCN
